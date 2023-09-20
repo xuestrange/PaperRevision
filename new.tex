@@ -1,0 +1,15 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{graphicx}
+\title{Multiple files Compilation by Texlab}
+\begin{document}
+\maketitle
+    \section{A Table}
+    This is a table. Yeah, it is a table.
+    \input{table/table.tex}
+    \section{A figure}
+    This is a figure. Yeah, it is a figure.
+    \begin{figure}
+        \centering
+        \includegraphics{figure/figure.pdf}
+    \end{figure}
+\end{document}

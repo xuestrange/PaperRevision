@@ -1,0 +1,187 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.3)  29 AUG 2023 11:05
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**diff.tex
+(./diff.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(c:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(c:/texlive/2022/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(c:/texlive/2022/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box50
+\UL@hyphenbox=\box51
+\UL@skip=\skip49
+\UL@hook=\toks17
+\UL@height=\dimen141
+\UL@pe=\count189
+\UL@pixel=\dimen142
+\ULC@box=\box52
+Package: ulem 2019/11/18
+\ULdepth=\dimen143
+)
+(c:/texlive/2022/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 149.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/oberdiek/settobox.sty
+Package: settobox 2016/05/16 v1.5 Assign box dimensions to length registers (HO
+)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+\DIFdelgraphicsbox=\box53
+\DIFdelgraphicswidth=\skip50
+\DIFdelgraphicsheight=\skip51
+LaTeX Info: Redefining \DIFaddbegin on input line 56.
+LaTeX Info: Redefining \DIFaddend on input line 57.
+LaTeX Info: Redefining \DIFdelbegin on input line 58.
+LaTeX Info: Redefining \DIFdelend on input line 59.
+LaTeX Info: Redefining \DIFaddbeginFL on input line 64.
+LaTeX Info: Redefining \DIFaddendFL on input line 65.
+LaTeX Info: Redefining \DIFdelbeginFL on input line 66.
+LaTeX Info: Redefining \DIFdelendFL on input line 67.
+
+(c:/texlive/2022/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count190
+\lst@gtempboxa=\box54
+\lst@token=\toks18
+\lst@length=\count191
+\lst@currlwidth=\dimen144
+\lst@column=\count192
+\lst@pos=\count193
+\lst@lostspace=\dimen145
+\lst@width=\dimen146
+\lst@newlines=\count194
+\lst@lineno=\count195
+\lst@maxwidth=\dimen147
+
+(c:/texlive/2022/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count196
+\lst@skipnumbers=\count197
+\lst@framebox=\box55
+)
+(c:/texlive/2022/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count198
+\l__color_backend_stack_int=\count199
+\g__color_backend_stack_int=\count266
+\g__graphics_track_int=\count267
+\l__pdf_internal_box=\box56
+\g__pdf_backend_object_int=\count268
+\g__pdf_backend_annotation_int=\count269
+\g__pdf_backend_link_int=\count270
+) (build/diff.aux)
+\openout1 = `diff.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 86.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
+6.
+
+(c:/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+\c@lstlisting=\count271
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 87.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 87.
+
+
+LaTeX Warning: No \author given.
+
+(./table/table.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 1.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
+File: figure/figure.pdf Graphic file (type pdf)
+<use figure/figure.pdf>
+ [1
+
+] [2] (build/diff.aux) ) 
+Here is how much of TeX's memory you used:
+ 2453 strings out of 476179
+ 40193 string characters out of 5813073
+ 340275 words of memory out of 5000000
+ 23211 multiletter control sequences out of 15000+600000
+ 473054 words of font info for 46 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 55i,10n,62p,225b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on build/diff.xdv (2 pages, 3820 bytes).
